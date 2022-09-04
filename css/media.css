@@ -1,0 +1,25 @@
+@media (max-width: 1024px) {
+
+    .newContact{
+        width: 75%;
+    }
+
+    .contacts {
+        width: 60%;
+    }
+
+    .contact_edit_form_input {
+        width: 100%;
+    }
+}
+
+@media (max-width: 750px) {
+
+    .newContact{
+        width: 100%;
+    }
+
+    .contacts {
+        width: 90%;
+    }
+}
